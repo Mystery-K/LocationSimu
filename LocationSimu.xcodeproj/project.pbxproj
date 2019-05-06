@@ -14,6 +14,15 @@
 		9793D8AB227FF35600D84DE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8A9227FF35600D84DE5 /* LaunchScreen.storyboard */; };
 		9793D8B6227FF35600D84DE5 /* LocationSimuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9793D8B5227FF35600D84DE5 /* LocationSimuTests.swift */; };
 		9793D8C1227FF35600D84DE5 /* LocationSimuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9793D8C0227FF35600D84DE5 /* LocationSimuUITests.swift */; };
+		9793D8D7227FF3CC00D84DE5 /* HouHai3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8CE227FF3CB00D84DE5 /* HouHai3.gpx */; };
+		9793D8D8227FF3CC00D84DE5 /* JiShuiTan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8CF227FF3CB00D84DE5 /* JiShuiTan.gpx */; };
+		9793D8D9227FF3CC00D84DE5 /* YunCheng.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D0227FF3CB00D84DE5 /* YunCheng.gpx */; };
+		9793D8DA227FF3CC00D84DE5 /* HouHai CoCo.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D1227FF3CB00D84DE5 /* HouHai CoCo.gpx */; };
+		9793D8DB227FF3CC00D84DE5 /* Houhai1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D2227FF3CB00D84DE5 /* Houhai1.gpx */; };
+		9793D8DC227FF3CC00D84DE5 /* HouHai.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D3227FF3CB00D84DE5 /* HouHai.gpx */; };
+		9793D8DD227FF3CC00D84DE5 /* CoCo.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D4227FF3CB00D84DE5 /* CoCo.gpx */; };
+		9793D8DE227FF3CC00D84DE5 /* HouHai2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D5227FF3CB00D84DE5 /* HouHai2.gpx */; };
+		9793D8DF227FF3CC00D84DE5 /* YinJiao.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		9793D8BC227FF35600D84DE5 /* LocationSimuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocationSimuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9793D8C0227FF35600D84DE5 /* LocationSimuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSimuUITests.swift; sourceTree = "<group>"; };
 		9793D8C2227FF35600D84DE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9793D8CE227FF3CB00D84DE5 /* HouHai3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = HouHai3.gpx; sourceTree = "<group>"; };
+		9793D8CF227FF3CB00D84DE5 /* JiShuiTan.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = JiShuiTan.gpx; sourceTree = "<group>"; };
+		9793D8D0227FF3CB00D84DE5 /* YunCheng.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = YunCheng.gpx; sourceTree = "<group>"; };
+		9793D8D1227FF3CB00D84DE5 /* HouHai CoCo.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "HouHai CoCo.gpx"; sourceTree = "<group>"; };
+		9793D8D2227FF3CB00D84DE5 /* Houhai1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Houhai1.gpx; sourceTree = "<group>"; };
+		9793D8D3227FF3CB00D84DE5 /* HouHai.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = HouHai.gpx; sourceTree = "<group>"; };
+		9793D8D4227FF3CB00D84DE5 /* CoCo.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = CoCo.gpx; sourceTree = "<group>"; };
+		9793D8D5227FF3CB00D84DE5 /* HouHai2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = HouHai2.gpx; sourceTree = "<group>"; };
+		9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = YinJiao.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +119,15 @@
 				9793D8A2227FF35500D84DE5 /* ViewController.swift */,
 				9793D8A4227FF35500D84DE5 /* Main.storyboard */,
 				9793D8A7227FF35600D84DE5 /* Assets.xcassets */,
+				9793D8D4227FF3CB00D84DE5 /* CoCo.gpx */,
+				9793D8D1227FF3CB00D84DE5 /* HouHai CoCo.gpx */,
+				9793D8D3227FF3CB00D84DE5 /* HouHai.gpx */,
+				9793D8D2227FF3CB00D84DE5 /* Houhai1.gpx */,
+				9793D8D5227FF3CB00D84DE5 /* HouHai2.gpx */,
+				9793D8CE227FF3CB00D84DE5 /* HouHai3.gpx */,
+				9793D8CF227FF3CB00D84DE5 /* JiShuiTan.gpx */,
+				9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */,
+				9793D8D0227FF3CB00D84DE5 /* YunCheng.gpx */,
 				9793D8A9227FF35600D84DE5 /* LaunchScreen.storyboard */,
 				9793D8AC227FF35600D84DE5 /* Info.plist */,
 			);
@@ -230,8 +257,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				9793D8AB227FF35600D84DE5 /* LaunchScreen.storyboard in Resources */,
+				9793D8DE227FF3CC00D84DE5 /* HouHai2.gpx in Resources */,
+				9793D8DF227FF3CC00D84DE5 /* YinJiao.gpx in Resources */,
+				9793D8D7227FF3CC00D84DE5 /* HouHai3.gpx in Resources */,
+				9793D8DC227FF3CC00D84DE5 /* HouHai.gpx in Resources */,
 				9793D8A8227FF35600D84DE5 /* Assets.xcassets in Resources */,
+				9793D8DA227FF3CC00D84DE5 /* HouHai CoCo.gpx in Resources */,
 				9793D8A6227FF35500D84DE5 /* Main.storyboard in Resources */,
+				9793D8D9227FF3CC00D84DE5 /* YunCheng.gpx in Resources */,
+				9793D8DD227FF3CC00D84DE5 /* CoCo.gpx in Resources */,
+				9793D8D8227FF3CC00D84DE5 /* JiShuiTan.gpx in Resources */,
+				9793D8DB227FF3CC00D84DE5 /* Houhai1.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
