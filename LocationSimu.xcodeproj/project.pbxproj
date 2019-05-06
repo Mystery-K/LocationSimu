@@ -23,6 +23,7 @@
 		9793D8DD227FF3CC00D84DE5 /* CoCo.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D4227FF3CB00D84DE5 /* CoCo.gpx */; };
 		9793D8DE227FF3CC00D84DE5 /* HouHai2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D5227FF3CB00D84DE5 /* HouHai2.gpx */; };
 		9793D8DF227FF3CC00D84DE5 /* YinJiao.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */; };
+		9793D8E322805C1300D84DE5 /* YinJiao1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8E222805C1300D84DE5 /* YinJiao1.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,9 @@
 		9793D8D4227FF3CB00D84DE5 /* CoCo.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = CoCo.gpx; sourceTree = "<group>"; };
 		9793D8D5227FF3CB00D84DE5 /* HouHai2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = HouHai2.gpx; sourceTree = "<group>"; };
 		9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = YinJiao.gpx; sourceTree = "<group>"; };
+		9793D8E02280597600D84DE5 /* BaiHu.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = BaiHu.gpx; sourceTree = "<group>"; };
+		9793D8E12280598500D84DE5 /* XiangYu.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = XiangYu.gpx; sourceTree = "<group>"; };
+		9793D8E222805C1300D84DE5 /* YinJiao1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = YinJiao1.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +131,9 @@
 				9793D8CE227FF3CB00D84DE5 /* HouHai3.gpx */,
 				9793D8CF227FF3CB00D84DE5 /* JiShuiTan.gpx */,
 				9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */,
+				9793D8E222805C1300D84DE5 /* YinJiao1.gpx */,
+				9793D8E02280597600D84DE5 /* BaiHu.gpx */,
+				9793D8E12280598500D84DE5 /* XiangYu.gpx */,
 				9793D8D0227FF3CB00D84DE5 /* YunCheng.gpx */,
 				9793D8A9227FF35600D84DE5 /* LaunchScreen.storyboard */,
 				9793D8AC227FF35600D84DE5 /* Info.plist */,
@@ -257,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9793D8AB227FF35600D84DE5 /* LaunchScreen.storyboard in Resources */,
+				9793D8E322805C1300D84DE5 /* YinJiao1.gpx in Resources */,
 				9793D8DE227FF3CC00D84DE5 /* HouHai2.gpx in Resources */,
 				9793D8DF227FF3CC00D84DE5 /* YinJiao.gpx in Resources */,
 				9793D8D7227FF3CC00D84DE5 /* HouHai3.gpx in Resources */,
