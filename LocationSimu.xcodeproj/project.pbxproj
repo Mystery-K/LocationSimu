@@ -16,12 +16,10 @@
 		9793D8C1227FF35600D84DE5 /* LocationSimuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9793D8C0227FF35600D84DE5 /* LocationSimuUITests.swift */; };
 		9793D8D7227FF3CC00D84DE5 /* HouHai3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8CE227FF3CB00D84DE5 /* HouHai3.gpx */; };
 		9793D8D8227FF3CC00D84DE5 /* JiShuiTan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8CF227FF3CB00D84DE5 /* JiShuiTan.gpx */; };
-		9793D8D9227FF3CC00D84DE5 /* YunCheng.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D0227FF3CB00D84DE5 /* YunCheng.gpx */; };
 		9793D8DB227FF3CC00D84DE5 /* Houhai1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D2227FF3CB00D84DE5 /* Houhai1.gpx */; };
 		9793D8DC227FF3CC00D84DE5 /* HouHai.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D3227FF3CB00D84DE5 /* HouHai.gpx */; };
 		9793D8DE227FF3CC00D84DE5 /* HouHai2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D5227FF3CB00D84DE5 /* HouHai2.gpx */; };
 		9793D8DF227FF3CC00D84DE5 /* YinJiao.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */; };
-		9793D8E322805C1300D84DE5 /* YinJiao1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 9793D8E222805C1300D84DE5 /* YinJiao1.gpx */; };
 		97FD3DAD2283096800C89860 /* HouHai.coco.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 97FD3DAB2283096700C89860 /* HouHai.coco.gpx */; };
 		97FD3DAE2283096800C89860 /* SoHo.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 97FD3DAC2283096800C89860 /* SoHo.gpx */; };
 /* End PBXBuildFile section */
@@ -59,15 +57,12 @@
 		9793D8C2227FF35600D84DE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9793D8CE227FF3CB00D84DE5 /* HouHai3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = HouHai3.gpx; sourceTree = "<group>"; };
 		9793D8CF227FF3CB00D84DE5 /* JiShuiTan.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = JiShuiTan.gpx; sourceTree = "<group>"; };
-		9793D8D0227FF3CB00D84DE5 /* YunCheng.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = YunCheng.gpx; sourceTree = "<group>"; };
 		9793D8D2227FF3CB00D84DE5 /* Houhai1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Houhai1.gpx; sourceTree = "<group>"; };
 		9793D8D3227FF3CB00D84DE5 /* HouHai.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = HouHai.gpx; sourceTree = "<group>"; };
 		9793D8D5227FF3CB00D84DE5 /* HouHai2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = HouHai2.gpx; sourceTree = "<group>"; };
 		9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = YinJiao.gpx; sourceTree = "<group>"; };
 		9793D8E02280597600D84DE5 /* BaiHu.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = BaiHu.gpx; sourceTree = "<group>"; };
 		9793D8E12280598500D84DE5 /* XiangYu.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = XiangYu.gpx; sourceTree = "<group>"; };
-		9793D8E222805C1300D84DE5 /* YinJiao1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = YinJiao1.gpx; sourceTree = "<group>"; };
-		9793D8E422807B7A00D84DE5 /* HeBei.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = HeBei.gpx; sourceTree = "<group>"; };
 		97FD3DA92281E79F00C89860 /* LangFang.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = LangFang.gpx; sourceTree = "<group>"; };
 		97FD3DAA2282F75A00C89860 /* JiShuiTan.1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = JiShuiTan.1.gpx; sourceTree = "<group>"; };
 		97FD3DAB2283096700C89860 /* HouHai.coco.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = HouHai.coco.gpx; sourceTree = "<group>"; };
@@ -124,7 +119,6 @@
 			children = (
 				9793D8A0227FF35500D84DE5 /* AppDelegate.swift */,
 				9793D8A2227FF35500D84DE5 /* ViewController.swift */,
-				9793D8E422807B7A00D84DE5 /* HeBei.gpx */,
 				97FD3DA92281E79F00C89860 /* LangFang.gpx */,
 				9793D8A4227FF35500D84DE5 /* Main.storyboard */,
 				9793D8A7227FF35600D84DE5 /* Assets.xcassets */,
@@ -137,10 +131,8 @@
 				9793D8CF227FF3CB00D84DE5 /* JiShuiTan.gpx */,
 				97FD3DAA2282F75A00C89860 /* JiShuiTan.1.gpx */,
 				9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */,
-				9793D8E222805C1300D84DE5 /* YinJiao1.gpx */,
 				9793D8E02280597600D84DE5 /* BaiHu.gpx */,
 				9793D8E12280598500D84DE5 /* XiangYu.gpx */,
-				9793D8D0227FF3CB00D84DE5 /* YunCheng.gpx */,
 				9793D8A9227FF35600D84DE5 /* LaunchScreen.storyboard */,
 				9793D8AC227FF35600D84DE5 /* Info.plist */,
 			);
@@ -271,14 +263,12 @@
 			files = (
 				97FD3DAD2283096800C89860 /* HouHai.coco.gpx in Resources */,
 				9793D8AB227FF35600D84DE5 /* LaunchScreen.storyboard in Resources */,
-				9793D8E322805C1300D84DE5 /* YinJiao1.gpx in Resources */,
 				9793D8DE227FF3CC00D84DE5 /* HouHai2.gpx in Resources */,
 				9793D8DF227FF3CC00D84DE5 /* YinJiao.gpx in Resources */,
 				9793D8D7227FF3CC00D84DE5 /* HouHai3.gpx in Resources */,
 				9793D8DC227FF3CC00D84DE5 /* HouHai.gpx in Resources */,
 				9793D8A8227FF35600D84DE5 /* Assets.xcassets in Resources */,
 				9793D8A6227FF35500D84DE5 /* Main.storyboard in Resources */,
-				9793D8D9227FF3CC00D84DE5 /* YunCheng.gpx in Resources */,
 				97FD3DAE2283096800C89860 /* SoHo.gpx in Resources */,
 				9793D8D8227FF3CC00D84DE5 /* JiShuiTan.gpx in Resources */,
 				9793D8DB227FF3CC00D84DE5 /* Houhai1.gpx in Resources */,
