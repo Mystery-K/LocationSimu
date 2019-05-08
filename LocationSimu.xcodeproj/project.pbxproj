@@ -69,6 +69,7 @@
 		9793D8E222805C1300D84DE5 /* YinJiao1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = YinJiao1.gpx; sourceTree = "<group>"; };
 		9793D8E422807B7A00D84DE5 /* HeBei.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = HeBei.gpx; sourceTree = "<group>"; };
 		97FD3DA92281E79F00C89860 /* LangFang.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = LangFang.gpx; sourceTree = "<group>"; };
+		97FD3DAA2282F75A00C89860 /* JiShuiTan.1.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = JiShuiTan.1.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +132,7 @@
 				9793D8D5227FF3CB00D84DE5 /* HouHai2.gpx */,
 				9793D8CE227FF3CB00D84DE5 /* HouHai3.gpx */,
 				9793D8CF227FF3CB00D84DE5 /* JiShuiTan.gpx */,
+				97FD3DAA2282F75A00C89860 /* JiShuiTan.1.gpx */,
 				9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */,
 				9793D8E222805C1300D84DE5 /* YinJiao1.gpx */,
 				9793D8E02280597600D84DE5 /* BaiHu.gpx */,
