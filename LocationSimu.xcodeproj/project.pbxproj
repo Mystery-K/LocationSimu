@@ -42,6 +42,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		976F9C59228535BF00F33BE9 /* ChengDe.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ChengDe.gpx; sourceTree = "<group>"; };
+		976F9C5A2285FADA00F33BE9 /* Houhai4.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Houhai4.gpx; sourceTree = "<group>"; };
 		9793D89D227FF35500D84DE5 /* LocationSimu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocationSimu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9793D8A0227FF35500D84DE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9793D8A2227FF35500D84DE5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -132,6 +134,8 @@
 				97FD3DAA2282F75A00C89860 /* JiShuiTan.1.gpx */,
 				9793D8D6227FF3CC00D84DE5 /* YinJiao.gpx */,
 				9793D8E02280597600D84DE5 /* BaiHu.gpx */,
+				976F9C59228535BF00F33BE9 /* ChengDe.gpx */,
+				976F9C5A2285FADA00F33BE9 /* Houhai4.gpx */,
 				9793D8E12280598500D84DE5 /* XiangYu.gpx */,
 				9793D8A9227FF35600D84DE5 /* LaunchScreen.storyboard */,
 				9793D8AC227FF35600D84DE5 /* Info.plist */,
